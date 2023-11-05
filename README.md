@@ -22,11 +22,11 @@ Amazon 2.0 with NEXT.JS! (ReactJS, Webhooks, complete Stripe Payments Checkout, 
 <h4>
     <a href="https://clone-dd86d.web.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/blob/master/README.md">Documentation</a>
+    <a href="https://github.com/Anmithun/Amazon-Clone/blob/main/AMAZON-Clone-master/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/issues">Report Bug</a>
+    <a href="https://github.com/Anmithun/Amazon-Clone/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/issues">Request Feature</a>
+    <a href="https://github.com/Anmithun/Amazon-Clone/issues">Request Feature</a>
   </h4>
 </div>
 
