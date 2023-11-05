@@ -22,11 +22,13 @@ Amazon 2.0 with NEXT.JS! (ReactJS, Webhooks, complete Stripe Payments Checkout, 
 <h4>
     <a href="https://clone-dd86d.web.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/blob/master/README.md">Documentation</a>
+    <a href="https://github.com/Anmithun/Amazon-Clone/blob/main/AMAZON-Clone-master/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/issues">Report Bug</a>
+    <a href="https://github.com/Anmithun/Amazon-Clone/issues
+">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/AMAZON-Clone/issues">Request Feature</a>
+    <a href="https://github.com/Anmithun/Amazon-Clone/issues
+">Request Feature</a>
   </h4>
 </div>
 
@@ -230,7 +232,7 @@ Add the `@tailwind` directives for each of Tailwind’s layers to your `./styles
 
 Install dependencies
 
-<a href="https://github.com/SashenJayathilaka/AMAZON-Clone/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
+<a href="https://github.com/Anmithun/AMAZON-Clone/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
 
 <!-- Run Locally -->
 
@@ -239,7 +241,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/SashenJayathilaka/AMAZON-Clone.git
+  git clone https://github.com/Anmithun/Amazon-Clone.git
 ```
 
 Install dependencies
@@ -291,9 +293,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+Your Name - abinashnayak2030@gmail.com
 
-Project Link: [https://github.com/SashenJayathilaka/AMAZON-Clone.git](https://github.com/SashenJayathilaka/AMAZON-Clone.git)
+Project Link: [https://github.com/Anmithun/Amazon-Clone.git](https://github.com/Anmithun/Amazon-Clone.git)
 
 <hr />
 
